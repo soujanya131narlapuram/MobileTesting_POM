@@ -1,0 +1,1 @@
+{"uuid":"56c1d090-01ab-49cf-afc8-cb0d1fec49bf","name":"MobileAppTesting_Wth_Pom","children":["04f0ac2f-7013-4d99-81e1-87ad8cca82e6"],"befores":[{"name":"initDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1684863544218,"stop":1684863568578}],"afters":[],"start":1684863544199,"stop":1684863581407}
